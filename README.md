@@ -1,1 +1,1 @@
-# confluence.github.io
+# thinkconfluence.github.io
